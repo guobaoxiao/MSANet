@@ -1,5 +1,8 @@
 # MSANet
-MSA-Net: Establishing Reliable Correspondences by Multiscale Attention Network
+MSA-Net: Establishing Reliable Correspondences by Multi-Scale Attention Network
+Linxin Zheng, Guobao Xiao*, Ziwei Shi, Shiping Wang and Jiayi Ma
+IEEE Transactions on Image Processing (TIP), 2022, 31, 4598-4608
+
 # MSA-Net implementation
 pytorch implementation of MSANet
 # Requirement
